@@ -9,7 +9,7 @@ Environment repositories using the framework:
 * **`MuJoCo Playground`** (built on top of MuJoCo MJX and Warp): https://github.com/google-deepmind/mujoco_playground/
 * **`mjlab`** (built on top of MuJoCo Warp): https://github.com/mujocolab/mjlab
 
-# Using this Library for symmetry augmentation
+# Using this Repository for symmetry augmentation
 
 ```
 
